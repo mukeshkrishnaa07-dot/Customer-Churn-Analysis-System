@@ -233,3 +233,9 @@ The analysis indicates that customers with **low credit scores, high balances, a
 **Mukesh Krishna**
 BCA (Artificial Intelligence & Machine Learning)
 Python | Data Analytics | Machine Learning | UI/UX | Web Development
+
+#Output
+<img width="560" height="474" alt="WhatsApp Image 2026-06-03 at 12 03 29 PM" src="https://github.com/user-attachments/assets/beca6eaf-6ef6-4524-b97f-14899147bb85" />
+<img width="552" height="413" alt="WhatsApp Image 2026-06-03 at 12 03 30 PM" src="https://github.com/user-attachments/assets/c91a745c-9f8a-4792-8040-4f4d71c6000c" />
+<img width="560" height="413" alt="WhatsApp Image 2026-06-03 at 12 03 28 PM" src="https://github.com/user-attachments/assets/c502bf40-8c7e-43a6-9b26-e55421d6d668" />
+
